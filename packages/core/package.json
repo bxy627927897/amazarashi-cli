@@ -1,6 +1,6 @@
 {
   "name": "@amazarashi-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "amazarashi-cli core",
   "author": "Edison <chenkunyu@xiaoniangao.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@amazarashi-cli/utils": "^1.0.0"
+    "@amazarashi-cli/utils": "^1.0.1"
   },
   "publishConfig": {
     "access": "public"

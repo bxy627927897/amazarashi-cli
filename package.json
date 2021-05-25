@@ -2,13 +2,17 @@
   "name": "amazarashi-cli",
   "version": "1.0.0",
   "description": "Front end scaffold by Edison.Kun",
-  "bin": {
-    "amazarshi": "bin/index.js"
-  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Edison.Kun",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "import": "^0.0.6",
+    "import-local": "^3.0.2"
+  }
 }

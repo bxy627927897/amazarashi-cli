@@ -18,5 +18,8 @@
   },
   "bugs": {
     "url": "https://github.com/bxy627927897/amazarashi-cli/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
